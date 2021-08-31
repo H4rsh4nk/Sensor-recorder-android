@@ -336,7 +336,7 @@ public class MainActivity extends AppCompatActivity {
 
                     target.setDataAndType(getfiletoread,"*/*");
                     target.setFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
-
+// github
                     Intent intent = Intent.createChooser(target, "Open File");
 
                     startActivity(intent);
