@@ -348,6 +348,7 @@ public class MainActivity extends AppCompatActivity {
                     textViewPathHint.setText(e.getMessage());
                 }
                 //harshank
+                //bug fixed
             }
         });
     }
