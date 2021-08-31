@@ -347,6 +347,8 @@ public class MainActivity extends AppCompatActivity {
 //                    System.out.println(fileOpen);
                     textViewPathHint.setText(e.getMessage());
                 }
+                //harshank
+                //bug fixed
             }
         });
     }
